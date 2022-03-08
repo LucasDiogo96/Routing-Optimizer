@@ -2,7 +2,7 @@
 
 The solution based on the vehicle routing problem is in this repository described in python by me in notebook format.
 
-Article published on Medium: https://medium.com/neogrid/desmistificando-roteiriza%C3%A7%C3%B5es-com-python-5b80f940a6fb
+Click here to read my article about it on Medium: [Desmistificando roteirizações com Python](https://medium.com/neogrid/desmistificando-roteiriza%C3%A7%C3%B5es-com-python-5b80f940a6fb) 
 
 ## Type of application
   Jupyter Notebook
